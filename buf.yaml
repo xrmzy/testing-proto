@@ -1,0 +1,4 @@
+version: v1
+name: github.com/xrmzy/testing-proto
+deps:
+  - github.com/xrmzy/testing-proto
