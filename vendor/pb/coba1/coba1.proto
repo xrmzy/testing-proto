@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option  go_package = "https://getlib.aegisnet.info/ramzi/testing-proto/vendor/pb/coba1";
+option  go_package = "https://github.com/xrmzy/testing-proto/edit/master/vendor/pb/coba1";
 
 package  coba1;
 // Service untuk komunikasi RPC
